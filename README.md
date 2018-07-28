@@ -1,2 +1,2 @@
-# Hello-Wrold
+# Hello-World
 This is my first repository in Guthub...obviously building this repository from Guide.
